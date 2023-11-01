@@ -1,0 +1,63 @@
+.s0{
+    background-color:aqua;
+    
+}
+.s1 img{
+    width: 100%;
+}
+.s2 img{
+  
+    align-content: center;
+    width: 20%;    
+}
+.s3{
+    background-color:aquamarine;
+    text-align: center;
+}
+.s4 {
+    overflow: hidden; 
+}
+
+p {
+    float: left;
+}
+
+img {
+    float: left;
+}
+.s5 {
+    overflow: hidden; 
+}
+.s6 {
+    overflow: hidden; 
+} 
+
+.body{
+    background-color: aqua;
+}
+.s8{
+    background-color:black;
+    
+
+}
+.s9 img{
+    width:min-content;
+    
+     
+
+}
+.s9 img {
+    position: relative;
+    text-align: center;
+    color: white;
+    width: 100%;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
